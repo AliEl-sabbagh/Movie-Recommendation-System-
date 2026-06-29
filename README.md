@@ -81,6 +81,4 @@ I would like to express my sincere gratitude to **Epsilon Academy** for providin
 
 Special thanks to **Eng. Salah** for his continuous guidance, support, and valuable feedback throughout the project. 
 
-Artificial Intelligence Student | Data Science & Machine Learning Enthusiast
-
-**LinkedIn:** *(Add your LinkedIn profile here)*
+https://github.com/EPSILON-AI
